@@ -1,0 +1,3 @@
+/* (Opcional) Ajustes muy mínimos. 
+   Mantener el diseño 100% con Bootstrap es posible incluso sin este archivo. */
+html { scroll-behavior: smooth; }
